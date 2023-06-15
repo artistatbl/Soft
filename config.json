@@ -1,7 +1,7 @@
 {
-    "openai_api_key": "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",
-    "discord_bot_token": "MTA3NDY1ODIzMTA0NzE2ODA2MA.G6Ei2H.1gs43jhq6IMSjyjUHMOlRyxRB4AiKrwF6PoLEI",
+    "openai_api_key": "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",
+    "discord_bot_token": "MTA3NDY1ODIzMTA0NzE2ODA2MA.G82fYC.YTdU9FBn7e07H-V4htNtMX4AbLUHEHYano8dX4",
     "weather_api": "141c5ae86584e3680eb5074f1c5c7a56",
-    "prefix": "$"
+    "prefix": "!"
   }
   
