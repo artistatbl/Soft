@@ -1,6 +1,5 @@
 {
     "openai_api_key": "sign and get your api key",
-    "discord_bot_token": "get discord token and put here",
     "weather_api": "put the token here",
     "prefix": "!"
   }
