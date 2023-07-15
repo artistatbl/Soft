@@ -1,0 +1,7 @@
+build:
+  setup:
+    - nodejs-16_x
+    - npm-8_x
+  install:
+    - npm ci
+  start: python3 main.py
